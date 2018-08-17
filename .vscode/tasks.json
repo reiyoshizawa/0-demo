@@ -7,7 +7,7 @@
             "label": "build",
             "type": "shell",
             "command": "gcc",
-            "args": ["-g","1-print_demo.c","-o","Demo"],
+            "args": ["-g","dynamic_memory.c","-o","Demo"],
             "problemMatcher": "$gcc"
         }
     ]
