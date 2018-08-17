@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "get_double.h": "c",
+        "math.h": "c"
+    }
+}
